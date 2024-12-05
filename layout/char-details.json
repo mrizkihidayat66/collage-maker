@@ -1,0 +1,14 @@
+{
+  "layout": {
+    "rows": 2,
+    "columns": 5,
+    "images": [
+      {"row": 1, "col": 1, "span": 5},
+      {"row": 2, "col": 1, "span": 1},
+      {"row": 2, "col": 2, "span": 1},
+      {"row": 2, "col": 3, "span": 1},
+      {"row": 2, "col": 4, "span": 1},
+      {"row": 2, "col": 5, "span": 1}
+    ]
+  }
+}
